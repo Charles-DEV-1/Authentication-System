@@ -1,0 +1,27 @@
+# environment secrets
+
+.env
+
+# python cache
+
+**pycache**/
+*.pyc
+
+# virtual environment
+
+venv/
+.venv/
+
+# editor
+
+.vscode/
+.idea/
+
+# database files
+
+*.sqlite3
+*.db
+
+# system
+
+.DS_Store
